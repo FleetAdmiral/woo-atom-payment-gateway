@@ -1,5 +1,5 @@
 # Atom Payment for WooCommerce  
-## Contributors: vikaskapadiya
+## Contributors: [vikaskapadiya](https://github.com/vikas5914 "vikaskapadiya")
 ### Tags: WooCommerce, Payment Gateway, Atom, atom payment gateway, gateway for woocommerce, the woocommerce plugin woocommerce allows use atom payment, payment gateway with secure online payment gateway, Indian payment gateway, Card payment woocommerce, pay with Credit Card / Debit Card / Internet Banking
 ### Donate link: https://www.payumoney.com/paybypayumoney/#/69775
 ### Requires at least: 4.0
